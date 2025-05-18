@@ -1,0 +1,119 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: right; 
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+header {
+    background: #009688;
+    color: white;
+    padding: 0; 
+  height: 100px; 
+  display: auto; 
+  align-items: right;
+  justify-content: flex-end;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 24px;
+    flex-grow: 1; 
+    text-align: right; 
+
+}
+
+header img {
+    width: 100px;
+   float: right;
+
+}
+
+/* تصميم قائمة التنقل */
+nav {
+    background: #004d40; 
+    color: white;
+    padding: 10px 20px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.section {
+    padding: 20px 0;
+}
+
+.services {
+    background: #e0f2f1; 
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.services .video-large {
+    margin-bottom: 20px;
+}
+
+.services .video-large video {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.services .image-pair {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.services .image-pair img {
+    width: 48%;
+    height: auto;
+    display: block;
+}
+
+.services .item-title {
+    text-align: center;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.contact {
+    background: #e0f2f1; 
+    padding: 20px;
+    margin: 20px 0;
+    text-align: center;
+}
+
+.contact h2 {
+    margin-bottom: 20px;
+}
+
+.contact p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.contact a {
+    color: #004d40;
+    text-decoration: none;
+    font-weight: bold;
+}
