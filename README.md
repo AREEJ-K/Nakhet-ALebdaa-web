@@ -8,7 +8,7 @@ A responsive and professionally designed web project developed using modern fron
 
 ## 📸 Project Preview
 <p align="center">
-  <img src="nakhet_ebdaa.png" alt="Nakhet Al-Ebdaa Preview" width="100%">
+  <img src="https://raw.githubusercontent.com/AREEJ-K/Nakhet-ALebdaa-web/master/nakhet_ebdaa.png" alt="Nakhet Al-Ebdaa Preview" width="100%">
 </p>
 
 ---
