@@ -1,6 +1,6 @@
 # Nakhet Al-Ebdaa Website
 
-🌐 **[Live Demo (اضغط هنا لتصفح الموقع )](https://areej-k.github.io/Nakhet-ALebdaa-web/)**
+🌐 **[Live Demo (اضغط هنا لتصفح الموقع)](https://areej-k.github.io/Nakhet-ALebdaa-web/)**
 
 A responsive and professionally designed web project developed using modern front-end web technologies.
 
